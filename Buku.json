@@ -1,0 +1,26 @@
+[
+    {
+        "ID Buku": "1",
+        "Judul Buku": "69 cm",
+        "Pengarang": "Mywife",
+        "Biaya Sewa": 5032025
+    },
+    {
+        "ID Buku": "3",
+        "Judul Buku": "NO LONGER HUMAN",
+        "Pengarang": "Osamu Dazai",
+        "Biaya Sewa": 96000
+    },
+    {
+        "ID Buku": "4",
+        "Judul Buku": "Pernah Lupa Jadi Manusia",
+        "Pengarang": "Qomikin",
+        "Biaya Sewa": 120000
+    },
+    {
+        "ID Buku": "5",
+        "Judul Buku": "Psychology of Money",
+        "Pengarang": "Morgan Housel ",
+        "Biaya Sewa": 150000
+    }
+]
